@@ -1,0 +1,27 @@
+body{
+	font-size: 11px;
+}
+
+a{
+	font-family: Roboto, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	color: #3A681A;
+}
+
+a:hover{
+	color:#5CA22E;
+}
+
+a:active{
+	color: #DC0000;
+}
+
+.block, .block2{
+	border:1px solid #008000;
+	background: #E7F2D7;
+	height: 17px;
+}
+
+.block2{
+	width: 95px;
+}
